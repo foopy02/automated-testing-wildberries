@@ -1,0 +1,41 @@
+1664036716319	geckodriver	INFO	Listening on 127.0.0.1:64671
+1664036719427	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64672" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\E55F~1\\AppData\\Local\\Temp\\rust_mozprofileLxV4Ii"
+1664036720407	Marionette	INFO	Marionette enabled
+1664036720418	Marionette	INFO	Listening on port 64683
+Read port: 64683
+WebDriver BiDi listening on ws://127.0.0.1:64672
+1664036720635	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\E55F~1\\AppData\\Local\\Temp\\rust_mozprofileLxV4Ii\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64672/devtools/browser/7eb48820-f903-4491-bce4-ea8b8a7cd951
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://static.wbstatic.net/j/spa/index.min.js?f46f10dc2de75005, line 299: Error: 
+JavaScript error: https://static.wbstatic.net/j/spa/modules/productCard/suppliersInfoHelper.min.js?d779e82f95a5a707, line 2: TypeError: t is null
+1664036741702	Marionette	INFO	Stopped listening on port 64683
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664036844481	geckodriver	INFO	Listening on 127.0.0.1:64892
+1664036847554	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64893" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\E55F~1\\AppData\\Local\\Temp\\rust_mozprofiletOu2vq"
+1664036848325	Marionette	INFO	Marionette enabled
+1664036848336	Marionette	INFO	Listening on port 64904
+Read port: 64904
+WebDriver BiDi listening on ws://127.0.0.1:64893
+1664036848583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\E55F~1\\AppData\\Local\\Temp\\rust_mozprofiletOu2vq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64893/devtools/browser/03185f31-2301-4bc6-bb1e-2866c8929a63
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://static.wbstatic.net/j/spa/index.min.js?f46f10dc2de75005, line 299: Error: 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1664036859034	Marionette	INFO	Stopped listening on port 64904
+1664037227598	geckodriver	INFO	Listening on 127.0.0.1:65399
+1664037230677	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65400" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\E55F~1\\AppData\\Local\\Temp\\rust_mozprofileFPmEao"
+1664037231634	Marionette	INFO	Marionette enabled
+1664037231647	Marionette	INFO	Listening on port 65414
+Read port: 65414
+WebDriver BiDi listening on ws://127.0.0.1:65400
+1664037231878	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\E55F~1\\AppData\\Local\\Temp\\rust_mozprofileFPmEao\\search.json.mozlz4", (void 0), 576))
+1664037236714	Marionette	INFO	Stopped listening on port 65414
+1664037236735	CDP	WARN	Failed to remove undefined (Could not parse path (undefined): NS_ERROR_FILE_UNRECOGNIZED_PATH)
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 5383: TypeError: win is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "quit-application-granted" is finished, it is too late to register completion condition "ContentParent: id=24a6b2f5800"
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
